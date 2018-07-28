@@ -1,0 +1,11 @@
+C:\Users\mikes\source\repos\AdventureWorksAPI\AdventureWorksAPI\bin\Debug\netcoreapp2.0\AdventureWorksAPI.deps.json
+C:\Users\mikes\source\repos\AdventureWorksAPI\AdventureWorksAPI\bin\Debug\netcoreapp2.0\AdventureWorksAPI.runtimeconfig.json
+C:\Users\mikes\source\repos\AdventureWorksAPI\AdventureWorksAPI\bin\Debug\netcoreapp2.0\AdventureWorksAPI.runtimeconfig.dev.json
+C:\Users\mikes\source\repos\AdventureWorksAPI\AdventureWorksAPI\bin\Debug\netcoreapp2.0\AdventureWorksAPI.dll
+C:\Users\mikes\source\repos\AdventureWorksAPI\AdventureWorksAPI\bin\Debug\netcoreapp2.0\AdventureWorksAPI.pdb
+C:\Users\mikes\source\repos\AdventureWorksAPI\AdventureWorksAPI\obj\Debug\netcoreapp2.0\AdventureWorksAPI.csprojResolveAssemblyReference.cache
+C:\Users\mikes\source\repos\AdventureWorksAPI\AdventureWorksAPI\obj\Debug\netcoreapp2.0\AdventureWorksAPI.csproj.CoreCompileInputs.cache
+C:\Users\mikes\source\repos\AdventureWorksAPI\AdventureWorksAPI\obj\Debug\netcoreapp2.0\AdventureWorksAPI.AssemblyInfoInputs.cache
+C:\Users\mikes\source\repos\AdventureWorksAPI\AdventureWorksAPI\obj\Debug\netcoreapp2.0\AdventureWorksAPI.AssemblyInfo.cs
+C:\Users\mikes\source\repos\AdventureWorksAPI\AdventureWorksAPI\obj\Debug\netcoreapp2.0\AdventureWorksAPI.dll
+C:\Users\mikes\source\repos\AdventureWorksAPI\AdventureWorksAPI\obj\Debug\netcoreapp2.0\AdventureWorksAPI.pdb
